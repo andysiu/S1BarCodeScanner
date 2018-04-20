@@ -3,6 +3,7 @@
     <types>
         <members>JWTGenerator</members>
         <members>S1BarcodeScannerController</members>
+		<members>JWTGeneratorValidatorController</members>
         <name>ApexClass</name>
     </types>
     <types>
